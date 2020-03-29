@@ -1,5 +1,7 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
+# Link to Jupyter Notebook: [CHU_CH2_E2.ipynb](https://github.com/jonjonchu/ThinkStats2/blob/master/code/CHU_CH2_E2.ipynb)
+
 # Import libraries
     import pandas as pd
     import nsfg
